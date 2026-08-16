@@ -1,0 +1,4 @@
+azure-functions>=1.21.0,<2
+azure-identity>=1.19.0,<2
+azure-storage-blob>=12.25.0,<13
+httpx>=0.28.0,<1
